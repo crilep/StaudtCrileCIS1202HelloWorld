@@ -8,6 +8,7 @@ using namespace std;
 
 int main() {
 
+	//print output
 	cout << "Hello, World!" << endl;
 	
 	return 0;
